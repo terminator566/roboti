@@ -1,2 +1,3 @@
-print('Ja sam robot Lukica.')
+for i in range(11):
+    print('Ja sam robot Lukica.')
 
